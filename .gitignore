@@ -1,0 +1,32 @@
+# Dependency directories
+node_modules/
+
+# Environment configuration
+.env
+
+# Logs
+logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled binary addons
+build/Release
+
+# Coverage directory
+coverage
+
+# TypeScript specific
+*.tsbuildinfo
+
+# Yarn integrity file
+.yarn-integrity
+
+# IDE specific files
+.vscode/
+.idea/
+
+# npm debugging logs
+npm-debug.log*

@@ -1,0 +1,143 @@
+[
+	{
+		"jobTitle": "Data Scientist",
+		"resume": "Experienced data scientist with a background in machine learning and statistical analysis. Proficient in Python, R, and SQL. Skilled in data visualization and model deployment.",
+		"score": 95
+	},
+	{
+		"jobTitle": "Marketing Coordinator",
+		"resume": "Results-driven marketing coordinator with a passion for digital marketing and brand management. Experienced in creating and executing marketing campaigns across various channels. Proficient in social media marketing and Google Analytics.",
+		"score": 85
+	},
+	{
+		"jobTitle": "Software Developer",
+		"resume": "Innovative software developer with expertise in full-stack web development. Proficient in JavaScript, Node.js, React, and MongoDB. Experienced in agile development methodologies and version control systems.",
+		"score": 92
+	},
+	{
+		"jobTitle": "HR Manager",
+		"resume": "Dedicated HR manager with a focus on employee relations and talent acquisition. Experienced in conducting interviews, managing employee benefits, and implementing HR policies. Skilled in conflict resolution and performance management.",
+		"score": 88
+	},
+	{
+		"jobTitle": "Financial Analyst",
+		"resume": "Analytical financial analyst with a strong background in financial modeling and data analysis. Proficient in Excel, SQL, and financial forecasting techniques. Experienced in generating insights to support strategic decision-making.",
+		"score": 90
+	},
+	{
+		"jobTitle": "UX/UI Designer",
+		"resume": "Creative UX/UI designer with a passion for user-centered design. Proficient in Adobe Creative Suite and prototyping tools like Sketch and Figma. Experienced in conducting user research and usability testing.",
+		"score": 88
+	},
+	{
+		"jobTitle": "Sales Representative",
+		"resume": "Results-oriented sales representative with a proven track record of exceeding sales targets. Skilled in cold calling, lead generation, and relationship building. Experienced in consultative selling and CRM software.",
+		"score": 82
+	},
+	{
+		"jobTitle": "Registered Nurse",
+		"resume": "Compassionate registered nurse with clinical experience in medical-surgical and critical care settings. Proficient in patient assessment, medication administration, and care planning. Skilled in providing emotional support and patient education.",
+		"score": 92
+	},
+	{
+		"jobTitle": "Graphic Designer",
+		"resume": "Talented graphic designer with a strong portfolio of branding and marketing collateral. Proficient in Adobe Creative Suite, typography, and layout design. Experienced in collaborating with clients to translate ideas into visual concepts.",
+		"score": 86
+	},
+	{
+		"jobTitle": "Operations Manager",
+		"resume": "Strategic operations manager with expertise in supply chain management and process optimization. Experienced in implementing lean methodologies and quality management systems. Skilled in team leadership and performance metrics analysis.",
+		"score": 90
+	},
+	{
+		"jobTitle": "Teacher",
+		"resume": "Dedicated teacher with a passion for student-centered learning. Experienced in lesson planning, classroom management, and differentiated instruction. Skilled in fostering a positive learning environment and student engagement.",
+		"score": 88
+	},
+	{
+		"jobTitle": "DevOps Engineer",
+		"resume": "DevOps engineer with expertise in automating deployment, scaling, and management of cloud-based infrastructure. Proficient in CI/CD pipelines, containerization technologies like Docker and Kubernetes, and infrastructure as code tools like Terraform.",
+		"score": 93
+	},
+	{
+		"jobTitle": "System Administrator",
+		"resume": "System administrator with a focus on managing and maintaining IT systems and network infrastructure. Proficient in Linux and Windows server administration, virtualization technologies, and security best practices. Experienced in troubleshooting system issues and implementing disaster recovery plans.",
+		"score": 89
+	},
+	{
+		"jobTitle": "Network Security Engineer",
+		"resume": "Network security engineer with expertise in designing and implementing secure network architectures. Proficient in firewall configuration, intrusion detection systems, and VPN technologies. Experienced in conducting security assessments and implementing security policies.",
+		"score": 91
+	},
+	{
+		"jobTitle": "Blockchain Developer",
+		"resume": "Blockchain developer with a strong background in distributed ledger technology. Proficient in blockchain platforms like Ethereum and Hyperledger Fabric. Experienced in smart contract development, decentralized applications, and cryptographic protocols.",
+		"score": 88
+	},
+	{
+		"jobTitle": "Technical Writer",
+		"resume": "Technical writer with a knack for translating complex technical concepts into clear and concise documentation. Experienced in writing user manuals, API documentation, and technical guides. Skilled in content management systems and version control tools.",
+		"score": 86
+	},
+	{
+		"jobTitle": "Cybersecurity Consultant",
+		"resume": "Cybersecurity consultant with expertise in assessing and mitigating cybersecurity risks. Proficient in conducting security audits, vulnerability assessments, and penetration testing. Experienced in advising organizations on cybersecurity best practices and compliance requirements.",
+		"score": 90
+	},
+	{
+		"jobTitle": "Product Manager",
+		"resume": "Product manager with experience in defining product vision, strategy, and roadmap. Skilled in market analysis, user research, and product development lifecycle. Experienced in leading cross-functional teams and driving product success.",
+		"score": 91
+	},
+	{
+		"jobTitle": "Cloud Engineer",
+		"resume": "Cloud engineer with expertise in designing, implementing, and managing cloud infrastructure. Proficient in cloud platforms like AWS, Azure, and Google Cloud. Experienced in cloud migration, automation, and optimization.",
+		"score": 89
+	},
+	{
+		"jobTitle": "Quality Assurance Analyst",
+		"resume": "Quality assurance analyst with a focus on ensuring product quality and customer satisfaction. Proficient in test planning, execution, and defect tracking. Experienced in both manual and automated testing methodologies.",
+		"score": 87
+	},
+	{
+		"jobTitle": "Business Analyst",
+		"resume": "Business analyst with a background in analyzing business processes and identifying areas for improvement. Skilled in requirements gathering, stakeholder management, and solution design. Experienced in data analysis and reporting.",
+		"score": 88
+	},
+	{
+		"jobTitle": "Mobile App Developer",
+		"resume": "Mobile app developer with expertise in native and cross-platform app development. Proficient in languages like Java, Kotlin, Swift, and frameworks like React Native and Flutter. Experienced in building user-friendly and scalable mobile applications.",
+		"score": 90
+	},
+	{
+		"jobTitle": "Systems Engineer",
+		"resume": "Systems engineer with experience in designing, implementing, and maintaining complex IT systems. Proficient in network infrastructure, server administration, and virtualization technologies. Skilled in troubleshooting and problem-solving.",
+		"score": 88
+	},
+	{
+		"jobTitle": "AI Engineer",
+		"resume": "AI engineer with expertise in developing artificial intelligence and machine learning solutions. Proficient in Python, TensorFlow, and deep learning frameworks. Experienced in model training, optimization, and deployment in production environments.",
+		"score": 93
+	},
+
+	{
+		"jobTitle": "Database Developer",
+		"resume": "Database developer with expertise in designing, implementing, and optimizing database solutions. Proficient in SQL and database management systems like MySQL, PostgreSQL, and Oracle. Experienced in database design, performance tuning, and data modeling.",
+		"score": 89
+	},
+	{
+		"jobTitle": "UI/UX Researcher",
+		"resume": "UI/UX researcher with a focus on understanding user behavior and preferences. Proficient in qualitative and quantitative research methodologies. Experienced in gathering user insights and translating them into design recommendations.",
+		"score": 87
+	},
+	{
+		"jobTitle": "Game Developer",
+		"resume": "Game developer with a passion for creating engaging and immersive gaming experiences. Proficient in game engines like Unity and Unreal Engine. Experienced in game design, development, and optimization for various platforms.",
+		"score": 90
+	},
+	{
+		"jobTitle": "Data Engineer",
+		"resume": "Data engineer with expertise in building and maintaining data pipelines and ETL processes. Proficient in big data technologies like Hadoop, Spark, and Kafka. Experienced in data warehousing and data integration.",
+		"score": 92
+	}
+]
