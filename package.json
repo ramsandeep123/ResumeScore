@@ -4,16 +4,17 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@tensorflow/tfjs": "^4.17.0",
+		"@tensorflow/tfjs-node": "^4.17.0",
+		"@tensorflow/tfjs-node-gpu": "^4.17.0",
+		"cors": "^2.8.5",
+		"csv-parser": "^3.0.0",
 		"express": "^4.19.2",
+		"fs": "^0.0.1-security",
 		"multer": "^1.4.5-lts.1",
 		"natural": "^7.0.5",
 		"node-nlp": "^4.27.0",
 		"pdfjs-dist": "^4.1.392",
-		"text-from-pdf": "^1.1.2",
-		"@tensorflow/tfjs": "^4.17.0",
-		"@tensorflow/tfjs-node": "^4.17.0",
-		"@tensorflow/tfjs-node-gpu": "^4.17.0",
-		"csv-parser": "^3.0.0",
-		"fs": "^0.0.1-security"
+		"text-from-pdf": "^1.1.2"
 	}
 }

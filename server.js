@@ -1,6 +1,6 @@
 import express from "express";
 import multer from "multer";
-
+import cors from "cors";
 import editer from "text-from-pdf";
 import * as tf from "@tensorflow/tfjs";
 import fs from "fs";
@@ -8,6 +8,7 @@ import padSequences from "./padsequence.js";
 import "@tensorflow/tfjs-node";
 
 const app = express();
+app.use(cors());
 app.use(express.json());
 const port = 3333;
 
